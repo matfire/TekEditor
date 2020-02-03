@@ -1,7 +1,6 @@
 {
   "short_name": "TekEd",
-  "name": "TekEd"
-  "name": "Editor showing off some of chrome's new apis",
+  "name": "TekEd",
   "icons": [
     {
       "src": "favicon.ico",
